@@ -21,9 +21,12 @@ end
 def while_iterator(number_of_times)
   # code your solution here using the "while" keyword
   # hint: user a counter to tell the while loop when to stop!
-  phrase = "Welcome to Flatiron School's Web Development Course!"
-  
-endvmbn\,n.vzxbcn\vxvc.nc<b,bzv.,?N.znbmz/\V/zbzmvnb/\bm>X/ncmxzvbm\x.n/xc\,nxz/mcxnv\,ncxz.mcvcx,mnBX/mn\bzm.<\/ncxb.m/vc,nxzb|>/xcznm>b/vzn,c|MBX>vn\m,/xzcb.v|MNZ?XB,.cvMNZ|?X<>bc\<XBVnmz.\bz,n/x?.x
+  counter = 0
+    phrase = "Welcome to Flatiron School's Web Development Course!"
+    puts phrase
+    counter += 1
+  end
+end
 
 def until_iterator(number_of_times)
   # code your solution here using the "until" keyword
